@@ -17,3 +17,4 @@ var firstSevenSyllables = "But sometimes they make no sense";
 var secondFiveSyllables = "";
 
 
+document.body.parentNode.innerHTML = makeHtmlHaiku(firstFiveSyllables, firstSevenSyllables, secondFiveSyllables);
