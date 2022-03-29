@@ -17,5 +17,4 @@ var firstSevenSyllables = "But sometimes they make no sense";
 var secondFiveSyllables = "Yet they are still fun!";
 
 
-
 document.body.parentNode.innerHTML = makeHtmlHaiku(firstFiveSyllables, firstSevenSyllables, secondFiveSyllables);
