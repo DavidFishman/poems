@@ -1,8 +1,26 @@
+## INTRO ##
+# Workshop Script #
 
-1. Create a function called "countSyllables(someWord)" that will console.log(csyllableCount);
-
-
-## Workshop Script
 1. Visit http://github.com
-2. 
+2. Enter your email address and enjpoy the adventure.
+3. Feel free to "Skip Personalization"
+4. Visit https://github.com/DavidFishman/poems/commits/main and explore the version history.
+5. Take a look at https://github.com/DavidFishman/poems/commit/e76258a6c4931b809f5360437889db66c1ba2810
+6. Can you figure out how to edit this file to come up with the "second five syllables" to complete this haiku?
+7. Fantastic. Add a brief commit message and " Commit directly to the main branch."
+
+Congrats! You've contributed to your first code base in a git Repository. 
+Were you the first one to commit your changes, or do you have any questions about a "Merge Conflict"
+
+
+
+
+## Coding Challenges ##
+## Beginner ##
+- Can you 
+
+## Intermediate ##
+1. Create a function called "countSyllables(someWord)" that will console.log(csyllableCount);
+2. Now create a function called "verifyHaiku" that takes a haiku as a parameter, and returns `true` if the haiku is correct, and `false` if it isn't really a haiku.
+
 
